@@ -1,1 +1,1 @@
-# datacom
+Resources for Data & Telecommunications course
